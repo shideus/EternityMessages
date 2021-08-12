@@ -1,0 +1,4 @@
+name: EternityMessages
+version: 1.0
+main: sh1nakuma.EternityMessages
+api-version: 1.17
